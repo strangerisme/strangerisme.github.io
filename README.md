@@ -4,5 +4,5 @@
 
 |    |    |    |    |
 | ---- | ---- | ---- | ---- |
-|[a](./CourseWare/CGChapters/Chapter1/chapter-1-1.html)|[b](./CourseWare/CGChapters/Chapter1/chapter-1-2.html)|[c](./CourseWare/CGChapters/Chapter1/chapter-1-3.html)|[d](./CourseWare/CGChapters/Chapter1/chapter-1-4.html)|
+|[a](./a_r.html)|[b](./b_r_t.html)|[c](./c_r_t.html)|[d](./d_r_t.html)|
 || | | |
