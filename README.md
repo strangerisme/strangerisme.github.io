@@ -12,7 +12,6 @@
 |[d](./test2/test2.html)|[e](./test2/test2.html)|[f](./test2/test2.html)|
 
 
-|商品|数量|单价|
+|[a](./test2/test2.html)|[b](./test2/test2.html)|[c](./test2/test2.html)|
 |-|-------:|:------:|
-|苹果|10|\$1|
-|电脑|1|\$1000|
+|[d](./test2/test2.html)|[e](./test2/test2.html)|[f](./test2/test2.html)|
