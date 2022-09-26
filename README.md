@@ -7,7 +7,6 @@
 |[c](./test1/c_r_t.html)|[d](./test1/d_r_t.html)|
 
 ## 实验一
-|[a](./test2/test2.html)|[b](./test2/test2.html)|
-| - | - |
-|[c](./test2/test2.html)|[d](./test2/test2.html)|
-|[e](./test2/test2.html)|[f](./test2/test2.html)|
+|[a](./test2/test2.html)|[b](./test2/test2.html)|[c](./test2/test2.html)|
+| - | - | - |
+|[d](./test2/test2.html)|[e](./test2/test2.html)|[f](./test2/test2.html)|
