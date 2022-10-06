@@ -8,7 +8,12 @@
 
 ## 实验二
 
-|[a](./test2/test2.html)|[b](./test2/test2.html)|[c](./test2/test2.html)|
+|[a](./test2/test2.html)|
+|-|
+
+## 实验三
+
+|[all](./test3/all.html)|[a](./test3/a.html)|[b](./test3/b.html)|
 |-|-|-|
-|[d](./test2/test2.html)|[e](./test2/test2.html)|[f](./test2/test2.html)|
+|[c](./test3/c.html)|[d](./test3/d.html)|[e](./test3/e.html)|
 
