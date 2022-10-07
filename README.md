@@ -27,5 +27,5 @@
 
 | | | | | | |
 |-|-|-|-|-|-|
-|[10_11日文档](./curriculum_design/10_11_word.pdf)||||||
+|[10_11_word](./curriculum_design/10_11_word.pdf)||||||
 
