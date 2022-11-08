@@ -27,6 +27,11 @@
 |-|
 |[a](./test4/fengche.html)|
 
+## 实验五
+
+| |  |  |  | |
+| ----- | ----- | ----- | ----- |----- |
+|[a](./test5/a_xuanzhuan.html)|[b](./test5/b_pinyi.html)|[c](./test5/c_suofang.html)|[d](./test5/d_genzong.html)|[e](./test5/e_zheng_duobianxing.html)|
 
 
 ## 实验六
