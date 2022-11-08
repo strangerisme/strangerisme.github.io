@@ -46,5 +46,5 @@
 
 | | | | | | |
 |-|-|-|-|-|-|
-|[10_11_word](./curriculum_design/10_11_word.pdf)||||||
+|[10_11_word](./curriculum_design/10_11_word.pdf)|[11_8_word](./curriculum_design/11_8_word.pdf)|||||
 
