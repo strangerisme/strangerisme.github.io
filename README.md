@@ -40,7 +40,11 @@
 |-|
 |[a](./test6/obj_show.html)|
 
+## 实验七
 
+|  |
+|-|
+|[a](./test7/test7.html)|
 
 ## 课程设计
 
