@@ -54,7 +54,9 @@
 
 ## 课程设计
 
+
 | | | | | | |
+|-|-|-|-|-|-|
 |阶段性文档：|[10_11_word](./curriculum_design/10_11_word.pdf)|[11_8_word](./curriculum_design/11_8_word.pdf)| | | |
 |项目终版展示：|[功能详细描述](./curriculum_design/功能详细描述.pdf)|[核心代码说明](./curriculum_design/核心代码说明.pdf)|[人员分工与自评](./curriculum_design/人员分工与自评.pdf)|[项目效果](./curriculum_design/Fire_fighting_robot/move.html)|[项目演示](./curriculum_design/项目演示.pptx)|
 
